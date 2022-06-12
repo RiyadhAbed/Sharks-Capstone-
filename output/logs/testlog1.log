@@ -3087,3 +3087,12 @@
 2022-06-11 21:10:12,912 [main] INFO .\src\test\resources\input\log4j.properties - user on homePage
 2022-06-11 21:10:18,500 [main] INFO .\src\test\resources\input\log4j.properties - user click on shopping cart
 2022-06-11 21:10:24,988 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays PASSED
+2022-06-11 22:09:27,878 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change started
+2022-06-11 22:09:34,732 [main] INFO .\src\test\resources\input\log4j.properties - user on homePage
+2022-06-11 22:09:43,625 [main] INFO .\src\test\resources\input\log4j.properties - user click on euro
+2022-06-11 22:09:46,704 [main] INFO .\src\test\resources\input\log4j.properties - User See The Euro Currency
+2022-06-11 22:09:50,052 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify currency values change PASSED
+2022-06-11 22:09:50,152 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays started
+2022-06-11 22:09:53,649 [main] INFO .\src\test\resources\input\log4j.properties - user on homePage
+2022-06-11 22:09:59,371 [main] INFO .\src\test\resources\input\log4j.properties - user click on shopping cart
+2022-06-11 22:10:05,864 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User empty Shopping cart message displays PASSED
