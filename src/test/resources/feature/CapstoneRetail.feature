@@ -4,7 +4,7 @@ Feature: Retail Page Feature
     Given user is on Retail home Page
     When user click on MyAccount
     And user click on Login option
-    And user enter userName "Test3000.3000@gmail.com"  and password "Alajeele123"
+    And user enter userName "ALI.ALI@YAHOO.COM"  and password "Alajeele123"
     And user click on login button
     Then user should be logged into myAccount Page
 
